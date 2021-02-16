@@ -3,7 +3,7 @@
  * Plugin Name: Growww Today - Basis
  * Plugin URI: https://github.com/growwwtoday/growww-plugin
  * Description: Deze plugin bevat de basisfunctionaliteiten van de website, verwijder daarom deze plugin niet
- * Version: 1.0.1
+ * Version: 1.0.0
  * Author: Kevin Brinkman
  * License: GNU General Public License v2
  * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html

@@ -1,0 +1,9 @@
+= 1.0.1 =
+
+* Fix bug in class-google-url.php
+* Add missing translation
+* Add .pot file for translators
+
+= 1.0.0 =
+
+* Initial release of Google Fonts for WordPress

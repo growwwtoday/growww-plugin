@@ -17,7 +17,7 @@ acf_add_local_field_group(array(
 				'class' => '',
 				'id' => '',
 			),
-			'placement' => 'left',
+			'placement' => 'top',
 			'endpoint' => 0,
 		),
 		array(
@@ -48,26 +48,7 @@ acf_add_local_field_group(array(
 			'required' => 0,
 			'conditional_logic' => 0,
 			'wrapper' => array(
-				'width' => '50',
-				'class' => '',
-				'id' => '',
-			),
-			'default_value' => '',
-			'placeholder' => '',
-			'prepend' => '',
-			'append' => '',
-			'maxlength' => '',
-		),
-		array(
-			'key' => 'field_5e8e0f050a9ab',
-			'label' => 'Telefoonnummer',
-			'name' => 'telefoonnummer',
-			'type' => 'text',
-			'instructions' => '',
-			'required' => 0,
-			'conditional_logic' => 0,
-			'wrapper' => array(
-				'width' => '50',
+				'width' => '',
 				'class' => '',
 				'id' => '',
 			),
@@ -86,26 +67,7 @@ acf_add_local_field_group(array(
 			'required' => 0,
 			'conditional_logic' => 0,
 			'wrapper' => array(
-				'width' => '50',
-				'class' => '',
-				'id' => '',
-			),
-			'default_value' => '',
-			'placeholder' => '',
-			'prepend' => '',
-			'append' => '',
-			'maxlength' => '',
-		),
-		array(
-			'key' => 'field_5e8e0f0f0a9ac',
-			'label' => 'Mailadres',
-			'name' => 'mailadres',
-			'type' => 'text',
-			'instructions' => '',
-			'required' => 0,
-			'conditional_logic' => 0,
-			'wrapper' => array(
-				'width' => '50',
+				'width' => '',
 				'class' => '',
 				'id' => '',
 			),
@@ -124,7 +86,7 @@ acf_add_local_field_group(array(
 			'required' => 0,
 			'conditional_logic' => 0,
 			'wrapper' => array(
-				'width' => '50',
+				'width' => '',
 				'class' => '',
 				'id' => '',
 			),
@@ -143,7 +105,7 @@ acf_add_local_field_group(array(
 			'required' => 0,
 			'conditional_logic' => 0,
 			'wrapper' => array(
-				'width' => '50',
+				'width' => '',
 				'class' => '',
 				'id' => '',
 			),
@@ -154,9 +116,9 @@ acf_add_local_field_group(array(
 			'maxlength' => '',
 		),
 		array(
-			'key' => 'field_602b98a9425f9',
-			'label' => 'KVK nummer',
-			'name' => 'kvk_nummer',
+			'key' => 'field_5e8e0f050a9ab',
+			'label' => 'Telefoonnummer',
+			'name' => 'telefoonnummer',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -168,14 +130,14 @@ acf_add_local_field_group(array(
 			),
 			'default_value' => '',
 			'placeholder' => '',
-			'prepend' => 'KvK:',
+			'prepend' => '',
 			'append' => '',
 			'maxlength' => '',
 		),
 		array(
-			'key' => 'field_602b98b4425fa',
-			'label' => 'BTW nummer',
-			'name' => 'btw_nummer',
+			'key' => 'field_5e8e0f0f0a9ac',
+			'label' => 'Mailadres',
+			'name' => 'mailadres',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -187,7 +149,7 @@ acf_add_local_field_group(array(
 			),
 			'default_value' => '',
 			'placeholder' => '',
-			'prepend' => 'BTW nr:',
+			'prepend' => '',
 			'append' => '',
 			'maxlength' => '',
 		),
@@ -204,7 +166,7 @@ acf_add_local_field_group(array(
 				'class' => '',
 				'id' => '',
 			),
-			'placement' => 'left',
+			'placement' => 'top',
 			'endpoint' => 0,
 		),
 		array(
@@ -334,7 +296,7 @@ acf_add_local_field_group(array(
 				'class' => '',
 				'id' => '',
 			),
-			'placement' => 'left',
+			'placement' => 'top',
 			'endpoint' => 0,
 		),
 		array(
@@ -438,7 +400,6 @@ acf_add_local_field_group(array(
 	'hide_on_screen' => '',
 	'active' => true,
 	'description' => '',
-	'modified' => 1613469689,
 ));
 
 acf_add_local_field_group(array(
@@ -517,7 +478,6 @@ acf_add_local_field_group(array(
 	'hide_on_screen' => '',
 	'active' => true,
 	'description' => '',
-	'modified' => 1613469689,
 ));
 
 endif;
