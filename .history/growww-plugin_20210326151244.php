@@ -3,7 +3,7 @@
  * Plugin Name: Growww Today - Basis
  * Plugin URI: https://ModditKevin@bitbucket.org/moddit/growww-plugin
  * Description: Deze plugin bevat de basisfunctionaliteiten van de website, verwijder daarom deze plugin niet!
- * Version: 1.1.3
+ * Version: 1.1.2
  * Author: Kevin Brinkman
  * License: GNU General Public License v2
  * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
