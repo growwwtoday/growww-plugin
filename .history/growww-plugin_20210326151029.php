@@ -3,7 +3,7 @@
  * Plugin Name: Growww Today - Basis
  * Plugin URI: https://ModditKevin@bitbucket.org/moddit/growww-plugin
  * Description: Deze plugin bevat de basisfunctionaliteiten van de website, verwijder daarom deze plugin niet
- * Version: 1.1.2
+ * Version: 1.1.1
  * Author: Kevin Brinkman
  * License: GNU General Public License v2
  * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -23,7 +23,7 @@
 
     include( plugin_dir_path( __FILE__ ) . 'includes/resize.php');
     include( plugin_dir_path( __FILE__ ) . 'includes/dashboard.php');
-    include( plugin_dir_path( __FILE__ ) . 'includes/forms.php');
+    include( plugin_dir_path( __FILE__ ) . 'includes/acf-velden.php');
     include( plugin_dir_path( __FILE__ ) . 'includes/acf.php');
     include( plugin_dir_path( __FILE__ ) . 'includes/acf-velden.php');
     include( plugin_dir_path(__FILE__). 'includes/custom/header.php');
